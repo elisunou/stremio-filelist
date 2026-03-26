@@ -1,0 +1,17 @@
+{
+  "name": "stremio-filelist",
+  "version": "1.0.0",
+  "description": "Stremio addon pentru FileList.io — tracker privat românesc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "FL_USERNAME=userul_tau FL_PASSKEY=passkey_tau node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "parse-torrent": "^9.1.5"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
