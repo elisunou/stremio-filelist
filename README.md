@@ -40,4 +40,4 @@ FL_PASSKEY:  'passkey_tau',
 - TorrServer: http://localhost:8090
 
 - ##Doneaza
-- `https://revolut.me/elisunou`
+- https://revolut.me/elisunou
