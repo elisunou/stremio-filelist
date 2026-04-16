@@ -3,7 +3,7 @@ const { searchByImdb, searchByName } = require('./filelist');
 const { filterAndSort } = require('./filtering');
 const { getTorrentInfo } = require('./torrent');
 const { getAllTitles } = require('./cinemeta');
-const { getStreamUrl, isRunning } = require('./torrserver');
+const { getStreamUrl, isRunning } = require('./torrserver.js');
 const config = require('./config');
 
 const manifest = {
