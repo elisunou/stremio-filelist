@@ -38,3 +38,6 @@ FL_PASSKEY:  'passkey_tau',
 ## Porturi
 - Addon:      http://localhost:7000
 - TorrServer: http://localhost:8090
+
+- ##Doneaza
+- `https://revolut.me/elisunou`
